@@ -1,3 +1,4 @@
+package com.iesvirgendelcarmen.matematicas;
 
 public class TrianguloRectangulo {
 

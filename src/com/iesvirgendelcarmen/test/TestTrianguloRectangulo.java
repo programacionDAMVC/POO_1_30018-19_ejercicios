@@ -1,4 +1,7 @@
+package com.iesvirgendelcarmen.test;
 import javax.swing.JOptionPane;
+
+import com.iesvirgendelcarmen.matematicas.TrianguloRectangulo;
 
 
 public class TestTrianguloRectangulo {

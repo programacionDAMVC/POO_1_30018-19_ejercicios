@@ -1,4 +1,7 @@
+package com.iesvirgendelcarmen.test;
 import javax.swing.JOptionPane;
+
+import com.iesvirgendelcarmen.prueba.Usuario;
 
 public class TestUsuarioJpane {
 	public static void main(String[] args) {

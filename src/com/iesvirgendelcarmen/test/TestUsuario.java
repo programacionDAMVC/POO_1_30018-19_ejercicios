@@ -1,4 +1,7 @@
+package com.iesvirgendelcarmen.test;
 import java.util.Scanner;
+
+import com.iesvirgendelcarmen.prueba.Usuario;
 
 public class TestUsuario {
 
